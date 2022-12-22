@@ -2,7 +2,7 @@ package AlignmentOptimizer;
 
 import java.io.IOException;
 import java.util.Scanner;
-// add comments on document 
+
 public class Document {
 	public void updateFile() throws IOException {
 		Scanner scan = new Scanner(System.in);
