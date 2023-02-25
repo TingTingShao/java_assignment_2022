@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author shaotingting
- *
- */
-module AssignmentOOP {
-}
